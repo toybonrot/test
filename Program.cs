@@ -126,8 +126,6 @@ class Project
         }
 
 
-        Console.WriteLine("\nСума головної дiагоналi: {0} ", SumMainDig);
-        Console.WriteLine("Сума побiчної дiагоналi: {0} ", SumSecondDig);
-        Console.WriteLine("Сума всiх дiагональних елементiв: {0}", SumMainDig + SumSecondDig);
+       
     }
 }
